@@ -1,4 +1,4 @@
-This is a repo that contains code demonstrating the **work of DQN agent that searches and follows known-value optimum that is changing it's position in time ** over the field of 20x20 steps  
+This is a repo that contains code demonstrating the **work of DQN agent that searches and follows known-value optimum that is changing it's position in time** over the field of 20x20 steps  
 Enviroment allows agent to move in up-down-left-right directions over the **discrete set of coords on the 2D field** of 20x20 points  
 Agent knows the optimum value it needs to find and **learns to stably reach and follow it** from any point in a final time (like **50-60k iterations**)
 Methods used:
